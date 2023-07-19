@@ -7,7 +7,7 @@ One of the key features of this webpage is the use of splines for animation. Spl
 
 *Project is solely based on the UI part .
 
-Tech Stack used:Spline
+Tech Stack used:Spline,Javascript and CSS
 
 Code compiled on :CODE Sandbox
 
